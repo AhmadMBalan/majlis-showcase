@@ -22,7 +22,7 @@ online or offline, on a table that feels like the real thing.
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](#status)
 [![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)](#status)
 
-[Website](https://majlis-66d8d.web.app) · [Features](#features) · [Architecture](#architecture) · [Engineering highlights](#engineering-highlights) · [About the developer](#about-the-developer)
+[Website](https://majlis-game.com) · [Features](#features) · [Architecture](#architecture) · [Engineering highlights](#engineering-highlights) · [About the developer](#about-the-developer)
 
 </div>
 
@@ -186,7 +186,7 @@ and offline, on real Android phones and the iOS simulator; the match server and 
 website are live. Majlis will launch on **Android and iOS together**. It is not in the
 app stores yet.
 
-Website: **https://majlis-66d8d.web.app**
+Website: **https://majlis-game.com**
 
 ## About the developer
 
